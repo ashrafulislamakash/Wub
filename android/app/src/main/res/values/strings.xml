@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WUB</string>
     <string name="facebook_app_id">249753912820036</string>
+    <string name="map_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCTuJZIeUc2uk2JtrxW0n83NOvsuIs_9MQ</string>
 </resources>
