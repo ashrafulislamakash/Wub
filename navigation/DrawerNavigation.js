@@ -11,6 +11,7 @@ import FindFriends from '../screens/FindFriends'
 import TodoList from '../screens/TodoList'
 import WebWub from '../screens/WebWub'
 import StudentPortal from '../screens/StudentPortal'
+import Booksell from '../screens/Booksell'
 
 
 
@@ -48,6 +49,7 @@ const DrawerNavigation = () => {
             <Drawer.Screen name="WebWub" component={WebWub} />
             <Drawer.Screen name="ProfileStack" component={ProfileStack} />
             <Drawer.Screen name="FeedStack" component={FeedStack} />
+            <Drawer.Screen name="Booksell" component={Booksell} />
 
 
         </Drawer.Navigator>

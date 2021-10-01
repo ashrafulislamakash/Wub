@@ -162,7 +162,7 @@ export function DrawerContent(props) {
                                 />
                             )}
                             label="Book Sell"
-                            onPress={() => { props.navigation.navigate("FindFriends") }}
+                            onPress={() => { props.navigation.navigate("Booksell") }}
                         />
 
                         <DrawerItem
